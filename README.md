@@ -6,4 +6,4 @@ Normal hand, the normalist robot hand around, with *normal* human characteristic
 - Straightforward 3D printing and assembly with **only 5-10 3D printed parts** to be assembled together
 - Mechanics and electronics **entirely constrained** inside the palm, allowing for full end-effector modularity with all current and future robotic manipulators
 - **Upcoming trained AI/RL models** to be released allowing for automated grasping capabilities of generalized objects, which can be integrated with other reinforcement learning simulation projects involving Genesis and Issac Labs
-- **<$300 cost to build, and **fully open source hardware and software** under the GPL 3.0 and CERN-OHL pair license :)
+- **<$300 cost to build**, and **fully open source hardware and software** under the GPL 3.0 and CERN-OHL pair license :)
