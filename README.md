@@ -6,5 +6,5 @@ Normal hand, the normalist robot hand around, with *normal* human characteristic
 - Straightforward 3D printing and assembly with **only 5-10 3D printed parts** to be assembled together
 - Mechanics and electronics **entirely constrained** inside the palm, allowing for full end-effector modularity with all current and future robotic manipulators
 - **Upcoming trained AI/RL models** to be released allowing for automated grasping capabilities of generalized objects, which can be integrated with other reinforcement learning simulation projects involving Genesis and Issac Labs
-- Alongside robotics applications, this can also serve as a hand for prosthetics as well, in which a socket system (hopefully also full copyleft) could be designed around for a given person
+- Alongside robotics applications, this can also serve as a hand for prosthetics as well, especially if built with worm drive gearboxes for gripping strength, also given with a customizable socket system (hopefully also full copyleft) for any given person
 - **<$300 cost to build**, and **fully open source hardware and software** under the GPL 3.0 and CERN-OHL pair license :)
