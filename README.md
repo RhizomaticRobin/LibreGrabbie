@@ -8,3 +8,5 @@ Normal hand, the normalist robot hand around, with *normal* human characteristic
 - **Upcoming trained AI/RL models** to be released allowing for automated grasping capabilities of generalized objects, which can be integrated with other reinforcement learning simulation projects involving Genesis and Issac Labs
 - Alongside robotics applications, this can also serve as a **low-weight and cost-accessible hand for prosthetics design**, especially if built with worm drive gearboxes human-level gripping strength, also given with a customizable socket system (hopefully also full copyleft) for any given person
 - **<$300 cost to build**, and **fully open source hardware and software** under the GPL 3.0 and CERN-OHL pair license :)
+![robot hand](https://github.com/user-attachments/assets/74bdee07-ca2a-47cd-8f38-99ab58790e74)
+![robot_hand_back](https://github.com/user-attachments/assets/3834614a-edf5-4b00-b480-64521c76e71a)
