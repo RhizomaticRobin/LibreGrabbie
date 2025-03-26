@@ -3,7 +3,7 @@
 
 
 # Features
-What? Another 3D printed robot hand? No! There's too many of those already!
+"What? Another 3D printed robot hand that's basically just another puppet with 5 string motors? No! There's too many of those already!"
 
 Well, here's where I might change your mind regarding that!
 
