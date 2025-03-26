@@ -1,5 +1,6 @@
 # LibreGrabbie
-*LibreGrabbie singular, LibreGrabbies plural*
+LibreGrabbie (singular): /ˈliː.brə ˈɡræb.i/ 
+(LEE-bruh GRAB-ee)abbies** (plural): /ˈliː.brə ˈɡræb.iz/ (LEE-bruh GRAB-eez)
 
 
 # Features
