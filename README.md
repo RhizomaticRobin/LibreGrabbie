@@ -1,5 +1,11 @@
-# normal_hand
-Normal hand, the normalist robot hand around, with *normal* human characteristics, like:
+# LibreGrabbie
+*LibreGrabbie singular, LibreGrabbies plural*
+
+
+# Features
+What? Another 3D printed robot hand? No! There's too many of those already!
+
+Well, here's where I might change your mind regarding that!
 
 - **Flexible TPU palm mechanics**, allowing for hybrid soft robotics that allow for actual grasping around curved objects in comparison to current traditional robotic palm mechanics
 - 16 motors allowing for **16 DOF hand dexerity**, 3 DOF for each finger and 4 DOF on the thumb
