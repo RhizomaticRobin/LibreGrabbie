@@ -29,7 +29,7 @@ Well, here's where I might change your mind regarding that!
 ## AI & Simulation
 
 - **Proximal Policy Optimization (PPO)** Deep Reinforcement Learning algorithm for training
-- **NVIDIA's Isaac Labs and Isaac Sim** for physics-accurate simulation and training
+- **NVIDIA's Isaac Labs and Isaac Sim** for physics-accurate simulation and training, with Genesis Physics Engine examples in the near future (batch training on hybrid robots still a work in-progress, see lines 179-180 since Genesis 0.2.1: https://github.com/Genesis-Embodied-AI/Genesis/blob/main/genesis/engine/simulator.py)
 - **Upcoming trained AI/RL models** to be released allowing for automated grasping capabilities of generalized objects
 
 ## Related Resources
