@@ -2,7 +2,7 @@
 
 **/ˈdɛk.si.ɡræb/ (DEK-see-grab) - DEXIGRABs (plural): /ˈdɛk.si.ɡræbz/ (DEK-see-grabz)
 
-An advanced, libre-source robotic hand with hybrid soft robotics for superior grasping capabilities
+An advanced, libre-source robot hand with integrated hybrid soft robotics, and soon GelSense-touch capabilities with pretrained sensor fusion RL models
 
 ![robot hand](https://github.com/user-attachments/assets/74bdee07-ca2a-47cd-8f38-99ab58790e74)
 ![robot_hand_back](https://github.com/user-attachments/assets/3834614a-edf5-4b00-b480-64521c76e71a)
