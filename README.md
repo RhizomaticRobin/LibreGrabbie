@@ -1,6 +1,6 @@
-# LibreGrabbie
+# DEXIGRAB
 
-**/ˈliː.brə ˈɡræb.i/** (LEE-bruh GRAB-ee) - *LibreGrabbies* (plural): /ˈliː.brə ˈɡræb.iz/ (LEE-bruh GRAB-eez)
+**/ˈdɛk.si.ɡræb/ (DEK-see-grab) - DEXIGRABs (plural): /ˈdɛk.si.ɡræbz/ (DEK-see-grabz)
 
 An advanced open-source robotic hand with hybrid soft robotics for superior grasping capabilities
 
