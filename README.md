@@ -49,7 +49,7 @@ Well, here's where I might change your mind regarding that!
 - **<$500 cost to build**
 - **Fully open source hardware and software** under the GPL 3.0 and CERN-OHL pair license :)
 
-## Coming Soon
+## Coming Soon^TM
 
 - Assembly instructions
 - Component lists
