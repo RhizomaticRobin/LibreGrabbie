@@ -28,6 +28,8 @@ Well, here's where I might change your mind regarding that!
 
 ## AI & Simulation
 
+![simulated reach -> grasp -> lift with tactile pads](Simulation/media/grasp_demo.gif)
+
 The simulation work now lives in this repo — see [`Simulation/`](Simulation/):
 
 - **Full physics model of the hand in NVIDIA Newton** (MuJoCo-Warp solver): the flexible

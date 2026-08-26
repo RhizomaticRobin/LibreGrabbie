@@ -5,6 +5,10 @@ The DEXIGRAB physics-simulation line: the hand rebuilt as a full articulated mod
 solver) — flexible palm mechanism and all — with per-pad tactile sensing, an arm-mounted
 grasp demo, and a GPU-batched in-hand reorientation RL environment.
 
+![reach -> whole-hand grasp -> lift, palm-side view with the 15 tactile pads](media/grasp_demo.gif)
+
+*The arm-mounted demo: reach, whole-hand grasp, lift — recorded straight from `newton/flexpalm_arm_demo.py --arm franka --viewer gl` (full quality: [media/grasp_demo.mp4](media/grasp_demo.mp4)).*
+
 This is the simulation work the main README used to promise as "upcoming". It's here now,
 including the parts that didn't go the way I wanted (see *Honest status* below).
 
