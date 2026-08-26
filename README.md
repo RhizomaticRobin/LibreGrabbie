@@ -28,9 +28,21 @@ Well, here's where I might change your mind regarding that!
 
 ## AI & Simulation
 
-- **Proximal Policy Optimization (PPO)** Deep Reinforcement Learning algorithm for training
-- **NVIDIA's Isaac Labs and Isaac Sim** for physics-accurate simulation and training, with Genesis Physics Engine examples in the near future (batch training on hybrid robots still a work in-progress, see lines 179-180 since Genesis 0.2.1: https://github.com/Genesis-Embodied-AI/Genesis/blob/main/genesis/engine/simulator.py)
-- **Upcoming trained AI/RL models** to be released allowing for automated grasping capabilities of generalized objects
+The simulation work now lives in this repo — see [`Simulation/`](Simulation/):
+
+- **Full physics model of the hand in NVIDIA Newton** (MuJoCo-Warp solver): the flexible
+  TPU palm modeled as 8 spring palm bones with 3 closed kinematic loops, 22 finger DOFs,
+  self-colliding shells, and **15-pad tactile sensing**
+- **Arm-mounted grasp demo** (Franka FR3) with an honest `--check` gate — a pass requires a
+  clean approach, multi-pad tactile contact, and a real lift, not a cube wedged in the shell
+- **GPU-batched in-hand reorientation RL environment** + self-contained PPO trainer,
+  validated at **N=8192 parallel worlds, 0.0% solver divergence, ~47k env-steps/s** on a
+  single RTX 5090 — plus the full forensics of the batched-solver NaN failure mode that had
+  to be root-caused to get there
+- **Honest RL status**: reorientation policies stall for contact-fidelity reasons documented
+  in [`Simulation/README.md`](Simulation/README.md), so no pretrained models are published
+  yet — that finding is what redirected this project toward engine-level contact-physics
+  work, rather than shipping policies from a sim that can't be trusted
 
 ## Related Resources
 
